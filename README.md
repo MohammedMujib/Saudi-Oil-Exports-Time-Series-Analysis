@@ -14,8 +14,8 @@ Data Source:** King Abdullah Petroleum Studies and Research Center (**KAPSARC**)
 - **Exploratory Data Analysis (EDA):** Trend and seasonality decomposition.
 - **Stationarity Testing:** Augmented Dickey-Fuller (ADF) test.
 - **Statistical Models:** ARMA, ARIMA, and **SARIMA**.
-- **Advanced Modeling:** Machine Learning and **Deep Learning** (LSTM/GRU).
-- **Evaluation:** Model comparison using RMSE, MAE, and MAPE.
+- **Advanced Modeling:** Machine Learning and **Deep Learning** (Simple RNN/LSTM/GRU).
+- **Evaluation:** Model comparison using RMSE and MAE.
 
 
 
